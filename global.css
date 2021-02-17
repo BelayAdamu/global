@@ -689,11 +689,11 @@ li {
 }
 @font-face {
   font-family: myFirstFont;
-  src: url(./Bookbot-Print-Bold.ttf);
+  src: url(https://bookbot.blob.core.windows.net/resources/fonts/Bookbot-Print-Bold.ttf);
 }
 @font-face {
   font-family: MySecondFont;
-  src: url(./Bookbot-Print.ttf);
+  src: url(https://bookbot.blob.core.windows.net/resources/fonts/Bookbot-Print.ttf-Print.ttf);
 }
 
 #email_ver_but_send ,
@@ -711,15 +711,15 @@ li {
 
 #email_ver_but_send,
 #email_ver_but_verify {
-  background-image: url(./button.svg)!important;
+  background-image: url(https://bookbot.blob.core.windows.net/resources/images/button.svg)!important;
 }
 #email_ver_but_resend{
-  background-image: url(./button-light-option.svg)!important; 
+  background-image: url(https://bookbot.blob.core.windows.net/resources/images/button-light-option.svg)!important; 
 }
 
 #email, #email_ver_input{
   background-size: contain;
-  background-image: url(./text-field.svg) !important;
+  background-image: url(https://bookbot.blob.core.windows.net/resources/images/text-field.svg) !important;
   border: none;
   width: 90% !important;
   height: 60px!important;
