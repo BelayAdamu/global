@@ -693,7 +693,7 @@ li {
 }
 @font-face {
   font-family: MySecondFont;
-  src: url(https://bookbot.blob.core.windows.net/resources/fonts/Bookbot-Print.ttf-Print.ttf);
+  src: url(https://bookbot.blob.core.windows.net/resources/fonts/Bookbot-Print.ttf);
 }
 
 #email_ver_but_send ,
