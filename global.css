@@ -733,7 +733,7 @@ label{
   font-size: 15px;
 }
 #email_ver_wait {
-  background-image: url(./gears.gif) !important;
+  background-image: url(https://bookbot.blob.core.windows.net/resources/images/gears.gif) !important;
   width: 477px;
   height: 477px;
   background-repeat: no-repeat;
