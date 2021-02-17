@@ -1,4 +1,12 @@
 
+@media only screen and (min-width: 365px){
+  #email_ver_but_send ,
+  #email_ver_but_resend,
+  #email_ver_but_verify {
+     height: 53px !important;
+   }
+ }
+
 html {
   background: none;
 }
@@ -732,10 +740,3 @@ label{
   font-family: myFirstFont;
   font-size: 15px;
 }
-@media only screen and (min-width: 365px){
-  #email_ver_but_send ,
-  #email_ver_but_resend,
-  #email_ver_but_verify {
-     height: 53px !important;
-   }
- }
