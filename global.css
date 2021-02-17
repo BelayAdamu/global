@@ -567,6 +567,7 @@ li {
 }
 
 .working {
+  mask-image: url(./gears.gif);
   bottom: 0;
   display: none;
   height: 2em;
