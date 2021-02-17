@@ -148,6 +148,8 @@ li {
 
 #email_ver_input {
   margin-bottom: 10px 0;
+  position: absolute;
+  left: 5%;
 }
 
 #FacebookExchange {
@@ -707,7 +709,8 @@ li {
   border: none;
 }
 
-#email_ver_but_send {
+#email_ver_but_send,
+#email_ver_but_verify {
   background-image: url(./button.svg)!important;
 }
 #email_ver_but_resend{
@@ -729,4 +732,5 @@ label{
   font-family: myFirstFont;
   font-size: 15px;
 }
+
 
