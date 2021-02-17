@@ -1,12 +1,4 @@
 
-@media only screen and (min-width: 365px){
-  #email_ver_but_send ,
-  #email_ver_but_resend,
-  #email_ver_but_verify {
-     height: 53px !important;
-   }
- }
-
 html {
   background: none;
 }
@@ -735,6 +727,9 @@ li {
   font-family: MySecondFont;
   font-size: 20px;
   font-weight: bolder;
+}
+#email_ver_wait {
+  background-image: url(./gears.gif)!important;
 }
 label{
   font-family: myFirstFont;
