@@ -732,7 +732,7 @@ label{
   font-family: myFirstFont;
   font-size: 15px;
 }
- @media only screen and (max-width: 360px){
+ @media only screen and (min-width: 360px){
    .button button{
      height: 53px !important;
    }
