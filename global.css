@@ -363,7 +363,7 @@ li {
   margin-bottom: 3%;
   color: white;
   font-weight: 600;
-  left: 10%;
+  left: 5%;
 }
 
 .buttons button #email_ver_but_resend {
@@ -700,7 +700,6 @@ li {
   font-weight: bolder;
   background-size: contain;
   width: 90%!important;
-  height: 70px;
   background-repeat: no-repeat;
   border: none;
 }
