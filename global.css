@@ -732,3 +732,9 @@ label{
   font-family: myFirstFont;
   font-size: 15px;
 }
+#email_ver_wait {
+  background-image: url(./gears.gif) !important;
+  width: 477px;
+  height: 477px;
+  background-repeat: no-repeat;
+}
