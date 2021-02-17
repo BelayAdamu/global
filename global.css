@@ -744,6 +744,6 @@ button:focus{
 input:focus{
   outline: none !important;
 }
-p, #email_fail-retry {
+p, #email_fail_retry {
   font-size: 20px;
 }
