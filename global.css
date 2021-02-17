@@ -567,7 +567,6 @@ li {
 }
 
 .working {
-  mask-image: url(./gears.gif);
   bottom: 0;
   display: none;
   height: 2em;
@@ -582,7 +581,7 @@ li {
 }
 
 .working:before {
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgb(255, 255, 255, 0.9);
   content: '';
   display: block;
   height: 100%;
