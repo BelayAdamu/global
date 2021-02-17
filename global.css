@@ -694,7 +694,9 @@ li {
   src: url(./Bookbot-Print.ttf);
 }
 
-#email_ver_but_send , #email_ver_but_resend {
+#email_ver_but_send ,
+ #email_ver_but_resend,
+ #email_ver_but_verify {
   font-family: myFirstFont;
   text-transform: none;
   font-size: 26px;
@@ -709,10 +711,10 @@ li {
   background-image: url(./button.svg)!important;
 }
 #email_ver_but_resend{
-  background-image: url(./button-light-option.svg); 
+  background-image: url(./button-light-option.svg)!important; 
 }
 
-#email{
+#email, #email_ver_input{
   background-size: contain;
   background-image: url(./text-field.svg) !important;
   border: none;
