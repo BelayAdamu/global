@@ -148,7 +148,7 @@ li {
 
 #email_ver_input {
   margin-bottom: 10px 0;
-  position: absolute;
+  position: relative;
   left: 5%;
 }
 
