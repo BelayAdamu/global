@@ -700,7 +700,7 @@ li {
   font-weight: bolder;
   background-size: contain;
   width: 90%!important;
-  height: 65px;
+  height: 70px;
   background-repeat: no-repeat;
   border: none;
 }
@@ -716,7 +716,7 @@ li {
   background-size: contain;
   background-image: url(./text-field.svg) !important;
   border: none;
-  width: 70% !important;
+  width: 90% !important;
   height: 60px!important;
   background-repeat: no-repeat;
   font-family: MySecondFont;
