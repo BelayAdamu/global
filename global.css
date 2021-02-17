@@ -581,7 +581,7 @@ li {
 }
 
 .working:before {
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(0,0,0,0);
   content: '';
   display: block;
   height: 100%;
