@@ -699,7 +699,7 @@ li {
 #email_ver_but_send ,
  #email_ver_but_resend,
  #email_ver_but_verify {
-  font-family: myFirstFont;
+  font-family: myFirstFont, sans-serif;
   text-transform: none;
   font-size: 26px;
   font-weight: bolder;
@@ -724,7 +724,7 @@ li {
   width: 90% !important;
   height: 60px!important;
   background-repeat: no-repeat;
-  font-family: MySecondFont;
+  font-family: MySecondFont, sans-serif;
   font-size: 20px;
   font-weight: bolder;
 }
