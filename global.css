@@ -71,11 +71,12 @@ label, .password-label {
 
 #api {
   float: none;
-  position: static;
+  position: absolute;
   width: 100%;
   max-width: 400px;
   padding: 20px;
   padding-right: 20px;
+  top: 20%;
 }
 
 #panel_left {
