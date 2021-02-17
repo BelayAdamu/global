@@ -581,13 +581,13 @@ li {
 }
 
 .working:before {
-  background-color: rgb(255, 255, 255, 0.9);
+  background-color: rgba(0,0,0,0.3);
   content: '';
   display: block;
   height: 100%;
   left: 0;
   position: fixed;
-  top: -10;
+  top: 0;
   width: 100%;
 }
 
@@ -728,12 +728,6 @@ li {
   font-size: 20px;
   font-weight: bolder;
 }
-#email_ver_wait {
-  background-image: url(./gears.gif) !important;
-  width: 477px;
-  height: 477px;
-  background-repeat: no-repeat;
-  }
 label{
   font-family: myFirstFont;
   font-size: 15px;
